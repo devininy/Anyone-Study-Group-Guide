@@ -47,6 +47,7 @@
 | HTML 레이아웃 구조 짜기 | Devinan | 4 / 6    |
 | Git && 숙제 제출 방법   | Devinan | 4 / 7    |
 | 휴강                    | Devinan | 4 / 10   |
+| 숙제 제출 방법 -V2      | Devinan | 4 / 13   |
 
 ## Ardunio 세부 일정
 
