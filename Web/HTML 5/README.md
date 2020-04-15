@@ -2,16 +2,16 @@
 
 ## 1. Html이란?
 
-1. [HTML 배경](https://github.com/devininy/Devininy-Guide/blob/master/Web/1%EC%9E%A5.%20%20HTML%205/1.%20html%20%EC%9D%B4%EB%9E%80%3F.md)
+1. [HTML 배경](./1.%20html%20이란?.md)
 
 ## 2. Html Doc
 
-1. [HTML에 대한 빠른 소개](https://github.com/devininy/Devininy-Guide/blob/master/Web/1%EC%9E%A5.%20%20HTML%205/2.%20html%20Doc.md)
+1. [HTML에 대한 빠른 소개](./2.%20html%20Doc.md)
 
 ## 3. HTML Error
 
-1. [Syntax errors](https://github.com/devininy/Devininy-Guide/blob/master/Web/1%EC%9E%A5.%20%20HTML%205/3.%20html%20Error.md#3-1-syntax-errors)
-2. [Restrictions on content models and on attribute values.](https://github.com/devininy/Devininy-Guide/blob/master/Web/1%EC%9E%A5.%20%20HTML%205/3.%20html%20Error.md#3-2-restrictions-on-content-models-and-on-attribute-values)
+1. [Syntax errors](./3.%20html%20Error.md)
+2. [Restrictions on content models and on attribute values.](./3.%20html%20Error.md)
 
-## 4. [HTML Study](./html-study/README.md)
+## 4. [HTML Study](https://github.com/devinan/parrot-Html)
 > 스터디를 준비하면서 찾아본 링크나 이론/실전 에 대해서 소개합니다.
