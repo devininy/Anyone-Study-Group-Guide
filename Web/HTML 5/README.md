@@ -2,7 +2,7 @@
 
 ## 1. Html이란?
 
-1. [HTML 배경](./1.%20html%20이란?.md)
+1. [HTML 배경](./1.%20history.md)
 
 ## 2. Html Doc
 
@@ -14,4 +14,5 @@
 2. [Restrictions on content models and on attribute values.](./3.%20html%20Error.md)
 
 ## 4. [HTML Study](https://github.com/devinan/parrot-Html)
-> 스터디를 준비하면서 찾아본 링크나 이론/실전 에 대해서 소개합니다.
+
+> devinan 이 개인적으로 정리한 링크나 이론/실전 에 대해서 소개합니다.
