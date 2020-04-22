@@ -2,7 +2,7 @@
 
 ## 1. Html이란?
 
-1. [HTML 배경](./1.%20html%20이란?.md)
+1. [HTML 배경](./1.%20history.md)
 
 ## 2. Html Doc
 
